@@ -1,5 +1,6 @@
 clear all;
 
+%By Xiaoquan Sun
 %Build output files.
 %trajectory.xyz is the trajectory file without PBC(Periodic Boundary Condtion).
 %trajectory_imaged.xyz is the trajectory file with PBC.
